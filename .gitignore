@@ -15,9 +15,16 @@ frontend/dist/
 # Environment
 **/.env*
 
-# Spechistory
+# IDE
+.vscode/
 .specstory/**
+
+# CodingAgent
+.cursor/
+.claude/
+.codex/
 
 # Cursor
 .cursorindexingignore
 .cursorrules
+.cursorignore
